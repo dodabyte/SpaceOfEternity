@@ -1,0 +1,16 @@
+/.gradle/
+/.settings/
+.idea/
+build/
+target/
+beta_files/
+photoshop_templates/
+*.iml
+snapshot_classes
+OpenJDK JDK 17.0.2/
+*.exe
+SpaceOfEternity.jar
+SpaceOfEternity.txt
+*.ico
+*.docx
+library/
