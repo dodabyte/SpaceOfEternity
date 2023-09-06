@@ -1,1 +1,0 @@
-java --module-path "library\lib" --add-modules javafx.base,javafx.controls,javafx.fxml,javafx.media,java.sql -jar target\SpaceOfEternity.jar
